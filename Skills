@@ -1,0 +1,85 @@
+<div class="b-example-divider"></div>
+
+    <div class="container px-4 py-5" id="hanging-icons">
+      <h2 style="font-family: Baskerville-medium" class="display-5 text-dark"><center><br>SKILLS AND TECHNOLOGIES</center></h4>
+      <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
+        <div class="col d-flex align-items-start">
+          <div class="icon-square text-bg-light d-inline-flex align-items-center justify-content-center fs-4 flex-shrink-0 me-3">
+            <svg class="bi" width="1em" height="1em"><use xlink:href="#toggles2"/></svg>
+          </div>
+          <div>
+            <br><img src="/static/python.png" width="50" height=50"" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="700" height="500" loading="lazy"></br>
+             <h2 style="font-family: Baskerville-medium" class="fs-2"><center>Python</center></h4>
+             <center><h5><p style="font-family: Baskerville-medium">With its formidable capabilities, Python is my trusted ally in effecting positive change. It empowers me to bring my vision to life with unrivaled tenacity and skill in the world of programming.</center></p>
+            </a>
+          </div>
+        </div>
+        <div class="col d-flex align-items-start">
+          <div class="icon-square text-bg-light d-inline-flex align-items-center justify-content-center fs-4 flex-shrink-0 me-3">
+            <svg class="bi" width="1em" height="1em"><use xlink:href="#cpu-fill"/></svg>
+          </div>
+          <div>
+            <br><img src="/static/git.png" width="50" height=50"" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="700" height="500" loading="lazy"></br>
+             <h2 style="font-family: Baskerville-medium" class="fs-2"><center>Git & GitHub</center></h4>
+             <center><h5><p style="font-family: Baskerville-medium">In the fast-paced world of software engineering, Git and GitHub are vital tools that enable seamless collaboration , innovation and cloud-based power to fuel the efficency of my work.</center></p>
+            </a>
+          </div>
+        </div>
+        <div class="col d-flex align-items-start">
+          <div class="icon-square text-bg-light d-inline-flex align-items-center justify-content-center fs-4 flex-shrink-0 me-3">
+            <svg class="bi" width="1em" height="1em"><use xlink:href="#tools"/></svg>
+          </div>
+          <div>
+           <br><img src="/static/django.png" width="50" height=50"" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="700" height="500" loading="lazy"></br>
+            <h2 style="font-family: Baskerville-medium" class="fs-2"><center>Django</center></h4>
+            <center><h5><p style="font-family: Baskerville-medium">Django is a powerful framework that enables me to build scalable and efficient projects with finesse and ease in the dynamic and highly competitive world of modern software engineering.</center></p>
+
+
+          </div>
+        </div>
+      </div>
+
+
+
+
+    <div class="b-example-divider"></div>
+
+  <div class="container px-4 py-5" id="hanging-icons">
+
+    <div class="row g-4 py-5 row-cols-1 row-cols-lg-1">
+      <div class="col d-flex align-items-start">
+        <div class="icon-square text-bg-light d-inline-flex align-items-center justify-content-center fs-4 flex-shrink-0 me-3">
+          <svg class="bi" width="1em" height="1em"><use xlink:href="#toggles2"/></svg>
+        </div>
+        <div>
+          <br><img src="/static/cplusplus.png" width="50" height=50"" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="700" height="500" loading="lazy"></br>
+           <h2 style="font-family: Baskerville-medium" class="fs-2"><center>C++</center></h4>
+            <center><h5><p style="font-family: Baskerville-medium">In the highly competitive realm of software engineering, C++ is a formidable tool that enables programming and instills a deep-rooted comprehension of fundamental principles that underpin the field.</center></p>
+          </a>
+        </div>
+      </div>
+      <div class="col d-flex align-items-start">
+        <div class="icon-square text-bg-light d-inline-flex align-items-center justify-content-center fs-4 flex-shrink-0 me-3">
+          <svg class="bi" width="1em" height="1em"><use xlink:href="#cpu-fill"/></svg>
+        </div>
+        <div>
+          <br><img src="/static/html.png" width="50" height=50"" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="700" height="500" loading="lazy"></br>
+           <h2 style="font-family: Baskerville-medium" class="fs-2"><center>HTML</center></h4>
+            <center><h5><p style="font-family: Baskerville-medium">HTML is a powerful tool that allows me to design visually stunning and aesthetically pleasing websites with ease and precision in the constantly-evolving world of digital innovation.</center></p>
+
+          </a>
+        </div>
+      </div>
+      <div class="col d-flex align-items-start">
+        <div class="icon-square text-bg-light d-inline-flex align-items-center justify-content-center fs-4 flex-shrink-0 me-3">
+          <svg class="bi" width="1em" height="1em"><use xlink:href="#tools"/></svg>
+        </div>
+        <div>
+         <br><img src="/static/bootstrap.png" width="50" height=50"" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="700" height="500" loading="lazy"></br>
+          <h2 style="font-family: Baskerville-medium" class="fs-2"><center>BootStrap</center></h4>
+           <center><h5><p style="font-family: Baskerville-medium">In the fiercely competitive domain of web development, Bootstrap is a robust companion that enhances my efficiency in designing web pages, making it an invaluable tool.</center></p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
