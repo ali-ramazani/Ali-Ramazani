@@ -1075,7 +1075,8 @@
 
 .section-7 {
     padding: 170px 0px 170px 0px;
-    background-image: url(../images/footer-img.jpg);
+    background-color: #383838;
+    /* background-image: url(../images/footer-img.jpg); */
     background-position: top;
     background-size: cover;
     position: relative;
