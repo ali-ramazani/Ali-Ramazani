@@ -1,3 +1,3 @@
-# Ali-Ramazani
+# About me
 
-Protected Copyright
+Hi, I'm Ali Ramazani, a computer science student at Berea College. 
