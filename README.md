@@ -1,5 +1,4 @@
-![Header image](https://github.com/user-attachments/assets/6cba3bce-7d04-413c-b873-d8dcf749c8c5)
-)
+##Welcome to My Playground!
 
 I'm a computer science student at Berea College 
 
